@@ -1,2 +1,2 @@
 # hello-world
-just for test
+hi everyone,i am a chinese programer.
